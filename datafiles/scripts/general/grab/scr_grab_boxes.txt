@@ -1,0 +1,14 @@
+Ratman
+There isn’t a single box in this pile that isn’t holding up the rest. 
+
+Ratman
+If I were to take one, it would comically ruin whoever made this pile of boxes hard work. 
+
+Ratman
+Sounds like a wonderful idea to me. 
+
+audioplay
+snd_shake
+
+Ratman
+Strange. On closer inspection, it seems that all the boxes are glued together.
